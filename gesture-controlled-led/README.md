@@ -1,6 +1,6 @@
 [← All projects](../README.md)
 
-# 01 · LED Control Using Arduino Nano
+#  LED Control Using Arduino Nano
 
 Control five LEDs by opening and closing your fingers. A webcam watches
 your hand, Python works out which fingers are extended, and the Arduino
