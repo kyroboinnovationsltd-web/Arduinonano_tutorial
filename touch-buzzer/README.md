@@ -1,6 +1,6 @@
 [← All projects](../README.md)
 
-# 03 · Touch Buzzer
+#  Touch Buzzer
 
 Tap the touch sensor and the buzzer plays a tune — a different one
 depending on how many times you tapped.
